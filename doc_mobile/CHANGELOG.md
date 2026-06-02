@@ -6,6 +6,7 @@
 </tr>
 <tr>
 <td>
+<a href="#18.20.4-stremio01">18.20.4-stremio01</a><br/>
 <a href="#18.20.4">18.20.4</a><br/>
 <a href="#18.17.3">18.17.3</a><br/>
 <a href="#18.17.2">18.17.2</a><br/>
@@ -33,8 +34,15 @@
 </tr>
 </table>
 
+<a id="18.20.4-stremio01"></a>
+## 2026-05-01, Version 18.20.4-stremio01 (Current)
+
+### Notable Changes
+
+* Support 16kb page size
+
 <a id="18.20.4"></a>
-## 2024-10-07, Version 18.20.4 (Current)
+## 2024-10-07, Version 18.20.4
 
 ### Notable Changes
 
